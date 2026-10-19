@@ -1,4 +1,4 @@
-### Salut, moi c'est Maksen 👋
+### Salut, moi c'est Maksen
 
 Développeur polyvalent en alternance chez **DELSSI** à Lille, avec une casquette DevOps, et étudiant en Master 2 à Ynov.
 
