@@ -17,4 +17,4 @@ Développeur polyvalent en alternance chez **DELSSI** à Lille, avec une casquet
 
 **En dehors du code**
 - Je fais des runs de challenge sur les souls-like FromSoftware sur ma chaîne YouTube [@maksen_off](https://www.youtube.com/@maksen_off)
-- J'entraîne des sprinters et sauteurs au club d'athlétisme US Marquette
+- J'entraîne des sprinters et sauteurs dans un club d'athlétisme 
